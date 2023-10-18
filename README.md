@@ -9,7 +9,7 @@
 - Calcula e exibe o pagamento de cada funcionário.
 - Utiliza conceitos de programação orientada a objetos, incluindo herança e upcasting, definindo duas classes: Employee e OutsourcedEmployee.
 
-## Como usar executar o programa
+## Como executar o programa
 - Clone ou baixe este projeto para sua máquina local.
 - Compile o código Java usando seu compilador Java preferido.
 - Execute o aplicativo compilado.
