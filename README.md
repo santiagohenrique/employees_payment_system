@@ -1,5 +1,7 @@
 # Employees Payment System
 
+## Descrição
+
 - Este é um projeto Java que demonstra um sistema simples de pagamento de funcionários. Os usuários podem inserir dados para um número específico de funcionários, incluindo nome, horas trabalhadas e valor por hora. Além disso, o usuário pode especificar se o funcionário é terceirizado, caso em que será incluído um encargo adicional no cálculo do pagamento.
 
 ## Características
